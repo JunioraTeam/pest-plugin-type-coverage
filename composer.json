@@ -1,5 +1,5 @@
 {
-    "name": "pestphp/pest-plugin-type-coverage",
+    "name": "juniora/pest-plugin-type-coverage",
     "description": "The Type Coverage plugin for Pest PHP.",
     "keywords": [
         "php",
